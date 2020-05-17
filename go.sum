@@ -1,0 +1,4 @@
+github.com/nseps/godag v0.0.0-20180218130135-26d382aae54d h1:DpVmKDe/4wsYH5dZYxRvLn1Q2UsUHkOj/LKRx1m7HPk=
+github.com/nseps/godag v0.0.0-20180218130135-26d382aae54d/go.mod h1:q+kP2n7c9TmoW3RvDucSj0gm3ULrZwgW7uAS3/KE/8M=
+github.com/spf13/pflag v1.0.3 h1:zPAT6CGy6wXeQ7NtTnaTerfKOsV6V6F8agHXFiazDkg=
+github.com/spf13/pflag v1.0.3/go.mod h1:DYY7MBk1bdzusC3SYhjObp+wFpr4gzcvqqNjLnInEg4=
